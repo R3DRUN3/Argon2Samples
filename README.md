@@ -1,5 +1,5 @@
 # Argon2Samples
-Examples of Argon2 hashing implementation using third party libraries.
+Examples of Argon2 hashing integration using third party libraries.
 
 ## Abstract 
 As of March 2022 **Argon2** is the Top1 [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) recommended algorithm to store user password in databases.
