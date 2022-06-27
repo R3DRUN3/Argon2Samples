@@ -1,4 +1,6 @@
 # Argon2Samples
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Examples of Argon2 hashing integration using third party libraries.
 
 ## Abstract 
